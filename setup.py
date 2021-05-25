@@ -71,7 +71,7 @@ setup(
         "filelock>=3.0,<3.1",
         "lmdb",
         "more-itertools",
-        "checklist==0.0.10",
+        "checklist==0.0.11",
         "wandb>=0.10.0,<0.11.0",
         "huggingface_hub>=0.0.8",
         "google-cloud-storage>=1.38.0,<1.39.0",
